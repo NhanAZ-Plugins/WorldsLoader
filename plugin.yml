@@ -1,10 +1,10 @@
 ---
 name: WorldsLoader
-version: 1.0.1
+version: 1.0.2
 main: NhanAZ\WorldsLoader\Main
 api: 5.0.0
 
-website: https://github.com/NhanAZ
+website: https://github.com/NhanAZ-Plugins/WorldsLoader
 author: NhanAZ
-description: Auto load all worlds when plugin is loaded
+description: Load existing server worlds when the plugin starts
 ...
