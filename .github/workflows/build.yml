@@ -47,7 +47,7 @@ jobs:
 
       - name: Run PHPStan at maximum level and build PHAR
         id: build
-        uses: NhanAZ/DevTools@v1.0.12
+        uses: NhanAZ/DevTools@v1.0.18
         with:
           project: .
           output: build
